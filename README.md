@@ -1,4 +1,4 @@
-# devops-netology
+# devops
 ### Системы управления версиями
 ### First Homeworks
 В каталоге terraform и подкаталогах, будут игнорироваться все файлы с расширением .tfstate, также crash логи файл crash.log
